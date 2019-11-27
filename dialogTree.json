@@ -1,0 +1,202 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<avatar sign>> Press Z to interact with the tree critters 🐜🐛🐞 Spacebar to jump. \nAnd welcome to yarn's example GD project! ",
+		"position": {
+			"x": -2132,
+			"y": -265
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ant",
+		"tags": "",
+		"body": "<<avatar ant>>Please don't bug me now... <<wait 1000>>  I am quite busy at the moment.\nHave you seen my crumb?\n[[ yes |antcrumbyes ]] [[ no |antcrumbno ]] ",
+		"position": {
+			"x": 1498,
+			"y": 110
+		},
+		"colorID": 0
+	},
+	{
+		"title": "antcrumbyes",
+		"tags": "",
+		"body": "<<if $seenCrumb == true>>\nOh yeah? You saw it on a branch?\nDid you taste it?...\n<<else>>\nOh ha-ha! I can see that you are lying.\n<<endif>>",
+		"position": {
+			"x": 1187,
+			"y": 306
+		},
+		"colorID": 3
+	},
+	{
+		"title": "antcrumbno",
+		"tags": "",
+		"body": "Then scram!\nI don't have time for you...",
+		"position": {
+			"x": 1807,
+			"y": 310
+		},
+		"colorID": 0
+	},
+	{
+		"title": "crumb",
+		"tags": "",
+		"body": "<<avatar crumb>> <<set $seenCrumb to true >> You stumbled on a giant crumb.\nWhat would you like to do with it?\n[[ taste it | eatCrumb]] [[ take it | takeCrumb]] [[ nothing | null ]] ",
+		"position": {
+			"x": 1521,
+			"y": 692
+		},
+		"colorID": 6
+	},
+	{
+		"title": "eatCrumb",
+		"tags": "",
+		"body": "Let see <<wait 1000>>.<<wait 200>>.<<wait 200>> .<<wait 200>>these 🥨 are making you thirsty...",
+		"position": {
+			"x": 1170,
+			"y": 778
+		},
+		"colorID": 0
+	},
+	{
+		"title": "takeCrumb",
+		"tags": "",
+		"body": "The thing is way too heavy 😬 ....",
+		"position": {
+			"x": 1524,
+			"y": 1021
+		},
+		"colorID": 0
+	},
+	{
+		"title": "null",
+		"tags": "",
+		"body": "<<wait 100>> ",
+		"position": {
+			"x": 1886,
+			"y": 768
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doorroom1",
+		"tags": "",
+		"body": "Enter DoorRoom1?.\n[[ yes | enterdoorroom1 ]] [[ no | cancelenterdoorroom1 ]]",
+		"position": {
+			"x": -1697,
+			"y": 197
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cancelenterdoorroom1",
+		"tags": "",
+		"body": "Maybe later.....",
+		"position": {
+			"x": -1825,
+			"y": 482
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom1",
+		"tags": "",
+		"body": "<<enterDoorRoom1>>",
+		"position": {
+			"x": -1841,
+			"y": -134
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doorroom3",
+		"tags": "",
+		"body": "Enter DoorRoom3?.\n[[ yes | enterdoorroom3 ]] [[ no | cancelenterdoorroom3 ]]",
+		"position": {
+			"x": -1691,
+			"y": -735
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom3",
+		"tags": "",
+		"body": " <<enterDoorRoom3>>Entering room....",
+		"position": {
+			"x": -1851,
+			"y": -1038
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cancelenterdoorroom3",
+		"tags": "",
+		"body": "Maybe later.....",
+		"position": {
+			"x": -1815,
+			"y": -438
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doorroom4",
+		"tags": "",
+		"body": "Enter DoorRoom4?.\n[[ yes | enterdoorroom4 ]] [[ no | cancelenterdoorroom4 ]]",
+		"position": {
+			"x": -2564,
+			"y": -727
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom4",
+		"tags": "",
+		"body": "<<enterDoorRoom4>>Entering room....",
+		"position": {
+			"x": -2443,
+			"y": -1014
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cancelenterdoorroom4",
+		"tags": "",
+		"body": "Maybe later.....",
+		"position": {
+			"x": -2468,
+			"y": -456
+		},
+		"colorID": 0
+	},
+	{
+		"title": "doorroom2",
+		"tags": "",
+		"body": "Enter DoorRoom2?.\n[[ yes | enterdoorroom2 ]] [[ no | cancelenterdoorroom2 ]]",
+		"position": {
+			"x": -2563,
+			"y": 184
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enterdoorroom2",
+		"tags": "",
+		"body": "<<enterDoorRoom2>>Entering room....",
+		"position": {
+			"x": -2468,
+			"y": -113
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cancelenterdoorroom2",
+		"tags": "",
+		"body": "Maybe later.....",
+		"position": {
+			"x": -2417,
+			"y": 485
+		},
+		"colorID": 0
+	}
+]
