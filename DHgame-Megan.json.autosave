@@ -1262,23 +1262,15 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
         "file": "Universal Assets/Player/MFrontStop-1-0.png",
         "kind": "image",
         "metadata": "",
         "name": "Universal Assets\\Player\\MFrontStop-1-0.png",
-=======
-        "file": "Universal Assets/health_bar.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Universal Assets\\health_bar.png",
->>>>>>> 9330b817f4ace17140db75f39b96927082855baa
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
         "file": "Universal Assets/Player/MFrontStop-1-1.png",
         "kind": "image",
         "metadata": "",
@@ -2084,12 +2076,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Universal Assets\\PlayButton-2.png",
-=======
-        "file": "Universal Assets/health_bar_frame.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Universal Assets\\health_bar_frame.png",
->>>>>>> 9330b817f4ace17140db75f39b96927082855baa
         "smoothed": false,
         "userAdded": true
       }
@@ -3680,12 +3666,7 @@
     }
   ],
   "objectsGroups": [],
-  "variables": [
-    {
-      "name": "playerHealth",
-      "value": ""
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "b": 209,
@@ -4483,36 +4464,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 54,
-          "layer": "",
-          "locked": false,
-          "name": "HealthBarFrame",
-          "width": 184,
-          "x": 1504,
-          "y": 369,
-          "zOrder": 157,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "",
-          "locked": false,
-          "name": "HealthBar",
-          "width": 188,
-          "x": 1507,
-          "y": 451,
-          "zOrder": 158,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         }
       ],
       "objects": [
@@ -5178,84 +5129,6 @@
           "width": 32,
           "variables": [],
           "behaviors": []
-        },
-        {
-          "name": "HealthBar",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Universal Assets\\health_bar.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "HealthBarFrame",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Universal Assets\\health_bar_frame.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "events": [
@@ -5414,7 +5287,6 @@
                 {
                   "type": {
                     "inverted": false,
-<<<<<<< HEAD
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
@@ -5428,78 +5300,31 @@
                   "type": {
                     "inverted": false,
                     "value": "DialogueTree::StartDialogueFromBranch"
-=======
-                    "value": "ModVarGlobal"
->>>>>>> 9330b817f4ace17140db75f39b96927082855baa
                   },
                   "parameters": [
-                    "playerHealth",
-                    "=",
-                    "100"
+                    "\"sceneentrance\""
                   ],
                   "subInstructions": []
                 },
                 {
                   "type": {
                     "inverted": false,
-                    "value": "MettreXY"
+                    "value": "SetAnimationName"
                   },
                   "parameters": [
-<<<<<<< HEAD
                     "Player",
                     "\"MFrontStop\""
-=======
-                    "HealthBar",
-                    "=",
-                    "HealthBarFrame.X()",
-                    "=",
-                    "HealthBarFrame.Y()"
->>>>>>> 9330b817f4ace17140db75f39b96927082855baa
                   ],
                   "subInstructions": []
                 }
               ],
               "events": [
                 {
-                  "disabled": true,
+                  "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "TopDownMovement",
-                        ""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "DialogueTree::StartDialogueFromBranch"
-                      },
-                      "parameters": [
-                        "\"sceneentrance\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "\"MFrontStop\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -5524,39 +5349,6 @@
                 }
               ],
               "events": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "disabled": false,
-              "folded": false,
-              "name": "PlayerHealth",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "DepartScene"
-                      },
-                      "parameters": [
-                        ""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [],
-                  "events": []
-                }
-              ],
-              "parameters": []
             },
             {
               "colorB": 228,
@@ -5710,18 +5502,6 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "TopDownMovement",
-                        ""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
                         "value": "DialogueTree::StartDialogueFromBranch"
                       },
                       "parameters": [
@@ -5737,18 +5517,6 @@
                       "parameters": [
                         "Player",
                         "\"MRightStop\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "TopDownMovement",
-                        ""
                       ],
                       "subInstructions": []
                     }
@@ -6119,43 +5887,9 @@
                                 "\"\""
                               ],
                               "subInstructions": []
-                            },
-                            {
-                              "type": {
-                                "inverted": false,
-                                "value": "ModVarGlobal"
-                              },
-                              "parameters": [
-                                "playerHealth",
-                                "-",
-                                "10"
-                              ],
-                              "subInstructions": []
                             }
                           ],
-                          "events": [
-                            {
-                              "disabled": false,
-                              "folded": false,
-                              "type": "BuiltinCommonInstructions::Standard",
-                              "conditions": [],
-                              "actions": [
-                                {
-                                  "type": {
-                                    "inverted": false,
-                                    "value": "ChangeScaleWidth"
-                                  },
-                                  "parameters": [
-                                    "HealthBar",
-                                    "=",
-                                    "GlobalVariable(playerHealth) / 100"
-                                  ],
-                                  "subInstructions": []
-                                }
-                              ],
-                              "events": []
-                            }
-                          ]
+                          "events": []
                         },
                         {
                           "disabled": false,
@@ -6545,18 +6279,6 @@
                       "parameters": [
                         "Player",
                         "\"MLeftStop\""
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "TopDownMovement",
-                        ""
                       ],
                       "subInstructions": []
                     }
@@ -7205,7 +6927,7 @@
               "colorR": 74,
               "creationTime": 0,
               "disabled": false,
-              "folded": true,
+              "folded": false,
               "name": "DoorRoom3 Collision",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -8041,20 +7763,7 @@
                       "subInstructions": []
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Megan",
-                        "TopDownMovement",
-                        ""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "actions": [],
                   "events": [
                     {
                       "disabled": false,
@@ -8683,7 +8392,6 @@
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
-<<<<<<< HEAD
               "actions": [
                 {
                   "type": {
@@ -8698,9 +8406,6 @@
                   "subInstructions": []
                 }
               ],
-=======
-              "actions": [],
->>>>>>> 9330b817f4ace17140db75f39b96927082855baa
               "events": []
             }
           ],
@@ -13344,18 +13049,6 @@
       "extensionNamespace": "",
       "fullName": "",
       "name": "NewExtension2",
-      "shortDescription": "",
-      "tags": "",
-      "version": "",
-      "eventsFunctions": [],
-      "eventsBasedBehaviors": []
-    },
-    {
-      "author": "",
-      "description": "",
-      "extensionNamespace": "",
-      "fullName": "",
-      "name": "NewExtension",
       "shortDescription": "",
       "tags": "",
       "version": "",
