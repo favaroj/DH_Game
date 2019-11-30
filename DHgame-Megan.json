@@ -1889,6 +1889,195 @@
         "name": "BellaStop-1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Level 2- Mother Nature Assets/Mother Nature - Room3/Edwardstop-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Level 2- Mother Nature Assets\\Mother Nature - Room3\\Edwardstop-1-0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Level 2- Mother Nature Assets/Mother Nature - Room3/BellaStop-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Level 2- Mother Nature Assets\\Mother Nature - Room3\\BellaStop-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/TitleScreen@1.25x.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\TitleScreen@1.25x.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-1-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-1-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-2-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-2-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-1-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/Buttons-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\Buttons-2-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-1-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/ExitButton-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\ExitButton-2-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/PlayButton-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\PlayButton-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Universal Assets/PlayButton-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Universal Assets\\PlayButton-2.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3510,22 +3699,204 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 1123,
           "layer": "",
           "locked": false,
-          "name": "Barrier",
-          "width": 0,
-          "x": 12,
-          "y": 185,
+          "name": "MenuScreen",
+          "width": 1983,
+          "x": -32,
+          "y": -16,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 212,
+          "layer": "",
+          "locked": false,
+          "name": "ExitButton",
+          "width": 428,
+          "x": 751,
+          "y": 481,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 250,
+          "layer": "",
+          "locked": false,
+          "name": "Player",
+          "width": 135,
+          "x": 913,
+          "y": 718,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 412,
+          "layer": "",
+          "locked": false,
+          "name": "Playbutton",
+          "width": 728,
+          "x": 594,
+          "y": 141,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
-      "objects": [],
-      "events": [],
+      "objects": [
+        {
+          "bottomMargin": 0,
+          "height": 1100,
+          "leftMargin": 0,
+          "name": "MenuScreen",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "Universal Assets\\TitleScreen@1.25x.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 1940,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "ExitButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "ExitButton",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.35,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Universal Assets\\ExitButton-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Universal Assets\\ExitButton-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Playbutton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "PlayButton",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.35,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Universal Assets\\PlayButton-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Universal Assets\\PlayButton-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        }
+      ],
       "layers": [
         {
           "name": "",
@@ -3542,6 +3913,24 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "name": "Eastern Revealed",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Name of Game",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Menu Screen",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
@@ -8970,36 +9359,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 466,
-          "layer": "",
-          "locked": false,
-          "name": "Cage",
-          "width": 275,
-          "x": 626,
-          "y": 315,
-          "zOrder": 106,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 469,
-          "layer": "",
-          "locked": false,
-          "name": "Cooking",
-          "width": 552,
-          "x": 1090,
-          "y": 188,
-          "zOrder": 107,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
         }
       ],
       "objects": [
@@ -9017,169 +9376,6 @@
           "width": 1920,
           "variables": [],
           "behaviors": []
-        },
-        {
-          "name": "Cage",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Cage Still",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cage.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Cooking",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Cooking",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Cooking-6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         }
       ],
       "events": [
@@ -9832,7 +10028,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4304
+        "zoomFactor": 0.3362
       },
       "objectsGroups": [],
       "variables": [],
@@ -11684,7 +11880,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Edwardstop-1.png",
+                      "image": "Level 2- Mother Nature Assets\\Mother Nature - Room3\\Edwardstop-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11723,7 +11919,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "BellaStop-1.png",
+                      "image": "Level 2- Mother Nature Assets\\Mother Nature - Room3\\BellaStop-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
